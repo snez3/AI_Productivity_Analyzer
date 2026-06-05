@@ -29,9 +29,9 @@ Companies are investing heavily in AI tools but lack data to prove ROI. This pro
 - 3 out of 5 tasks (60%) showed positive AI ROI
 - Average time saved across all tasks - 33%
 
-## 📂 Files
+##  Files
 - `AI_Productivity_Analyzer.xlsx` — Excel data model and reports
 - `AI_Productivity_Analyzer.pbix` — Power BI dashboard
 
-## 👤 Author
-Built by snez3
+##  Author
+Built by Sneha Kolar
